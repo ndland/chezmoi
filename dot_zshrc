@@ -42,6 +42,7 @@ alias cls="clear"
 alias vim="nvim"
 alias t="task"
 alias tw="timew"
+alias cm="chezmoi"
 
 # Abbreviations (Fish-like functions)
 function mkcd {
